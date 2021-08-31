@@ -54,7 +54,7 @@ public class Candidate {
 	 * @return this candidate's votes.
 	 */
 	public int getVotes() {
-		return votes;
+		return votes; 
 	}
 
 	/**
